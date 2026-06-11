@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#0f172a">
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="preload" as="image" href="./intro-original/start-hero.png" fetchpriority="high" />
+    <title>真实留学模拟器 v5.0</title>
+  <script type="module" crossorigin src="./assets/index-spvgwG6O.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/vendor-analytics-Dt_uw1iv.js">
+  <link rel="modulepreload" crossorigin href="./assets/vendor-driver-nkxtR9G_.js">
+  <link rel="modulepreload" crossorigin href="./assets/game-ui-B8Cuuk0d.js">
+  <link rel="stylesheet" crossorigin href="./assets/vendor-driver-CrzEKIjI.css">
+  <link rel="stylesheet" crossorigin href="./assets/index-VJtPXM_n.css">
+</head>
+<body class="app-root">
+    <div id="app"></div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"ee99cc1dc70b4856b2e3d9b127756bcc","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+
